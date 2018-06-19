@@ -3,7 +3,8 @@ SNIPPET: cutlvm
 OBJECTIVE: To cut large lvm files to smaller parts 
 
 CONTENT: 
-     1. cut.2. toexcelfile.m
+     1. cut.
+     2. toexcelfile.m
      
 STEPS
      1. modify number of parts in 'cut.m' and run
